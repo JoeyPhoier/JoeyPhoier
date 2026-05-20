@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&duration=1000&pause=1000&color=FF0000&background=FF000000&vCenter=true&multiline=true&repeat=false&width=450&height=60&lines=Hi%2C+I'm+Joey!;I'm+a+Game+Dev+and+Technical+Designer" alt="Typing SVG" />
 
-#### **My focus is on the development of Mechanics, Systems, and Game AI, but I **love** every part of game dev.** <br>
+#### **My focus is on Mechanics, Systems, and Game AI, but I **love** every part of game dev.** <br>
 I have a soft-spot for working with data-driven designs and developing DX-centric tooling.
 Much of my work is currently in private repos, but I'm working to release a suite of tools for game devs!
 
